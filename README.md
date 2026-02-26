@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @denispinsky
-- 👀 I’m interested in Product Growth · Acquisition · Retention
-- 🌱 I’m currently learning Material Design
+- 👋 Hi I’m @denispinsky
+- 👀 I’m interested in AI and Crypto
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on https://savvyherb.com/
 - 📫 How to reach me linkedin.com/in/denispinsky
 
